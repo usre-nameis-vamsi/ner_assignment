@@ -1,0 +1,82 @@
+[
+  {
+    "chat_id": 1,
+    "conversation": "Visitor: Hi, I saw a 3 BHK listing in Andheri West on your website. Can you share more details? Agent: Hello! Sure, I’d be happy to help. That’s a 3 BHK apartment near Lokhandwala with approx 1,120 sq. ft. carpet area. The expected price is around ₹2.7 crore, and it’s a ready-to-move property. Would you like photos or floor plan details? Visitor: Photos would be great. Agent: Sure. Before I share them, may I know your name? Visitor: Rahul Mehta. Agent: Nice to connect, Rahul. Are you looking to buy for self-use or investment? Visitor: Self-use. Agent: Got it. Can I check your approximate budget range to suggest the best options? Visitor: Around 2.5 to 3 cr. Agent: That works well. Are you currently staying in Mumbai? Visitor: Yes, Goregaon West. Agent: Perfect. And by when are you planning to buy? Visitor: In about 3–4 months."
+  },
+  {
+    "chat_id": 2,
+    "conversation": "Visitor: Do you have any 2 BHK flats in Powai? Agent: Hi! Yes. Most 2 BHKs there are priced around ₹1.9 to ₹2.2 crore. May I know your budget? Visitor: Around 2 cr. Agent: May I know your name? Visitor: Anjali. Agent: Would you prefer details on WhatsApp or email? Visitor: Email would be better. Agent: Please share email. Visitor: anjali.s@gmail.com Agent: Are you currently staying in Mumbai or outside? Visitor: I’m currently in Thane. Agent: Do you have a tentative purchase timeline? Visitor: Maybe in the next 6 months."
+  },
+  {
+    "chat_id": 3,
+    "conversation": "Visitor: I’m looking for a budget flat in Mira Road. Agent: We have 1 BHK options starting from ₹50–60 lakhs. What’s your budget range? Visitor: Around 55 lakhs. Agent: May I know your name? Visitor: Amit. Agent: Are you currently staying in Mumbai? Visitor: Yes, Kandarpada. Agent: When are you planning to buy? Visitor: Immediately if I like the property."
+  },
+  {
+    "chat_id": 4,
+    "conversation": "Visitor: Any ready-to-move flats in Navi Mumbai? Agent: We have properties in Vashi and Nerul. Visitor: Vashi. Agent: May I know your name? Visitor: Suresh Kumar. Agent: Share WhatsApp number? Visitor: Yes, my number is 9876501234. Agent: Are you currently staying nearby? Visitor: Yes, Panvel. Agent: When would you like to visit the property? Visitor: Next Saturday."
+  },
+  {
+    "chat_id": 5,
+    "conversation": "Visitor: I want to check premium apartments in Lower Parel. Agent: Premium apartments start from ₹2.8 crore onwards. What’s your budget range? Visitor: Around 3 cr. Agent: May I know your name? Visitor: Arjun Malhotra. Agent: Please share email. Visitor: arjun.m@gmail.com Agent: Are you currently staying in Mumbai? Visitor: No, I’m based in Delhi. Agent: Preferred timeline? Visitor: In about 10–12 weeks."
+  },
+  {
+    "chat_id": 6,
+    "conversation": "Visitor: Interested in 2 BHK in Malad West. Agent: Priced at ₹1.55 crore. May I know your name? Visitor: Call me Rakesh. Agent: Budget? Visitor: Around 1.6 cr. Agent: Are you staying in Mumbai? Visitor: Yes, Kandivali East. Agent: Visit date? Visitor: On 2026-03-12. Agent: Profession? Visitor: I work in the service sector. Agent: Buying timeline? Visitor: In about 10 weeks."
+  },
+  {
+    "chat_id": 7,
+    "conversation": "Visitor: Browsing flats in Chembur. Agent: Ready 3 BHK priced ₹1.75 crore. Name please? Visitor: Call me Sunil. Agent: Budget? Visitor: Around 1.8 cr. Agent: Staying in Mumbai? Visitor: Yes, Ghatkopar. Agent: Visit date? Visitor: 15 March 2026. Agent: Profession? Visitor: I run my own business. Agent: Purchase timeline? Visitor: Within 3 days."
+  },
+  {
+    "chat_id": 8,
+    "conversation": "Visitor: Flats in Borivali West? Agent: 2 BHK around ₹1.35–1.45 crore. Name? Visitor: Skip name. Agent: Budget? Visitor: Around 1.4 cr. Agent: Current location? Visitor: Borivali East. Agent: Visit date? Visitor: 2026-04-05. Agent: Profession? Visitor: I’m retired. Agent: Buying timeline? Visitor: 12 to 16 months."
+  },
+  {
+    "chat_id": 9,
+    "conversation": "Visitor: Listing near Lower Parel details? Agent: 2 BHK premium at ₹2.9 crore. Name? Visitor: Call me Kunal. Agent: Budget? Visitor: Around 3 cr. Agent: Staying in Mumbai? Visitor: Yes, Worli. Agent: Visit date? Visitor: 20-03-2026. Agent: Profession? Visitor: I work in finance. Agent: Buying timeline? Visitor: Next week hopefully."
+  },
+  {
+    "chat_id": 10,
+    "conversation": "Visitor: Exploring properties in Thane. Agent: 2 BHK priced ₹95 lakhs. Name? Visitor: Skip. Agent: Budget? Visitor: Under 1 cr. Agent: Current location? Visitor: Mulund. Agent: Visit date? Visitor: 28th of Feb this year. Agent: Profession? Visitor: Working in private company. Agent: Buying timeline? Visitor: In around 8 to 10 days."
+  },
+  {
+    "chat_id": 11,
+    "conversation": "Visitor: Interested in 3 BHK Andheri West. Agent: Price ₹2.85 crore. Name? Visitor: Rahul Sharma. Agent: Budget? Visitor: Around 3 crore. Agent: Current location? Visitor: Goregaon West. Agent: Preferred location? Visitor: Andheri West. Agent: Phone? Visitor: 9876543210. Agent: Email? Visitor: rahul.sharma@gmail.com Agent: Profession? Visitor: IT services. Agent: Visit date? Visitor: 2026-03-18. Agent: Buying timeline? Visitor: 12-16 weeks."
+  },
+  {
+    "chat_id": 12,
+    "conversation": "Visitor: Looking for 2 BHK Powai. Agent: Price ₹2.1 crore. Name? Visitor: Anjali Mehta. Agent: Budget? Visitor: Around 2.2 crore. Agent: Current location? Visitor: Thane West. Agent: Preferred location? Visitor: Powai. Agent: Phone? Visitor: 9823456789. Agent: Email? Visitor: anjali.mehta@gmail.com Agent: Profession? Visitor: Private bank. Agent: Visit date? Visitor: 2026-04-02. Agent: Buying timeline? Visitor: Around ten days."
+  },
+  {
+    "chat_id": 13,
+    "conversation": "Visitor: Villas in Lonavala details? Agent: Price ₹2.6 crore. Name? Visitor: Sandeep Kulkarni. Agent: Budget? Visitor: Up to 2.7 crore. Agent: Current location? Visitor: Baner, Pune. Agent: Preferred location? Visitor: Lonavala. Agent: Phone? Visitor: 9012345678. Agent: Email? Visitor: sandeep.k@gmail.com Agent: Profession? Visitor: Manufacturing business. Agent: Visit date? Visitor: 2026-03-25. Agent: Buying timeline? Visitor: About 6 months."
+  },
+  {
+    "chat_id": 14,
+    "conversation": "Visitor: Senior-friendly apartment Navi Mumbai? Agent: 2 BHK priced ₹1.15 crore. Name? Visitor: Kamla Deshpande. Agent: Budget? Visitor: Around 1.2 crore. Agent: Current location? Visitor: Nerul. Agent: Preferred location? Visitor: Vashi. Agent: Phone? Visitor: 8899776655. Agent: Email? Visitor: kamla.d@gmail.com Agent: Profession? Visitor: Retired. Agent: Visit date? Visitor: 2026-02-20. Agent: Buying timeline? Visitor: About 16 weeks."
+  },
+  {
+    "chat_id": 15,
+    "conversation": "Visitor: Premium apartment Lower Parel. Agent: Price ₹3.2 crore. Name? Visitor: Arjun Verma. Agent: Budget? Visitor: Around 3.5 crore. Agent: Current location? Visitor: Worli. Agent: Preferred location? Visitor: Lower Parel. Agent: Phone? Visitor: 9988771122. Agent: Email? Visitor: arjun.verma@gmail.com Agent: Profession? Visitor: Consulting firm. Agent: Visit date? Visitor: 2026-03-10. Agent: Buying timeline? Visitor: About 24 weeks."
+  },
+  {
+    "chat_id": 16,
+    "conversation": "Visitor: Saw flat listing Andheri West. Agent: Price ₹2.8 crore. Visitor: Name Rohit Malhotra. Agent: Budget? Visitor: Around 3 cr. Agent: Current location? Visitor: Goregaon East. Agent: Phone? Visitor: 9876654321. Email: rohit.m@gmail.com Agent: Visit date? Visitor: 2026-03-08. Agent: Buying timeline? Visitor: About 10 weeks."
+  },
+  {
+    "chat_id": 17,
+    "conversation": "Visitor: Flat in Powai. Agent: 2 BHK ₹2 crore. Name? Visitor: Ajay Verma. Agent: Budget? Visitor: Around 2.1 cr. Agent: Current location? Visitor: Kanjurmarg. Agent: Phone? Visitor: 9011223344. Email: ajay.verma@gmail.com Agent: Visit date? Visitor: 2026-03-05. Agent: Buying timeline? Visitor: About 2 months."
+  },
+  {
+    "chat_id": 18,
+    "conversation": "Visitor: Saw 3 BHK Andheri West listing. Agent: Price ₹2.9 crore. Name? Visitor: Rahul Mehra. Agent: Budget? Visitor: Around 3 crore. Agent: Current location? Visitor: Goregaon East. Agent: Preferred location? Visitor: Andheri West. Agent: Phone? Visitor: 9898989898. Agent: Email? Visitor: rahul.mehra@gmail.com Agent: Profession? Visitor: IT services company. Agent: Visit date? Visitor: 2026-03-22. Agent: Buying timeline? Visitor: About 16 weeks."
+  },
+  {
+    "chat_id": 19,
+    "conversation": "Visitor: Looking for 2 BHK Powai. Agent: Price ₹2.15 crore. Name? Visitor: Ananya Iyer. Agent: Budget? Visitor: Around 2.2 crore. Agent: Current location? Visitor: Mulund West. Agent: Preferred location? Visitor: Powai. Agent: Phone? Visitor: 9123456780. Agent: Email? Visitor: ananya.iyer@gmail.com Agent: Profession? Visitor: Private bank. Agent: Visit date? Visitor: 2026-04-06. Agent: Buying timeline? Visitor: Around 20 weeks."
+  },
+  {
+    "chat_id": 20,
+    "conversation": "Visitor: Exploring villas near Lonavala. Agent: Villas priced ₹2.6–2.8 crore. Name? Visitor: Suresh Patil. Agent: Budget? Visitor: Around 2.7 crore. Agent: Current location? Visitor: Wakad, Pune. Agent: Preferred location? Visitor: Lonavala. Agent: Phone? Visitor: 9090909090. Agent: Email? Visitor: suresh.p@gmail.com Agent: Profession? Visitor: Logistics business. Agent: Visit date? Visitor: 2026-03-30. Agent: Buying timeline? Visitor: About 24 weeks."
+  }
+]

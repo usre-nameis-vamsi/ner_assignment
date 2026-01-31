@@ -1,0 +1,28 @@
+You are an information extraction system.
+
+Extract the following entities from the conversation.
+Return the output strictly as JSON.
+If an entity is missing, return null.
+
+Entities:
+- first_name
+- last_name
+- phone_number
+- email
+- budget
+- current_location
+- preferred_location
+
+Conversation:
+{chat}
+
+Output format (JSON only):
+{
+  "first_name": null,
+  "last_name": null,
+  "phone_number": null,
+  "email": null,
+  "budget": null,
+  "current_location": null,
+  "preferred_location": null
+}

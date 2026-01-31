@@ -1,0 +1,32 @@
+[
+  {
+    "chat_index": 0,
+    "entity": "first_name",
+    "gold": "Rahul",
+    "predicted": null
+  },
+  {
+    "chat_index": 0,
+    "entity": "last_name",
+    "gold": "Mehta",
+    "predicted": null
+  },
+  {
+    "chat_index": 0,
+    "entity": "budget",
+    "gold": "2.5-3 cr",
+    "predicted": null
+  },
+  {
+    "chat_index": 0,
+    "entity": "current_location",
+    "gold": "Goregaon West",
+    "predicted": null
+  },
+  {
+    "chat_index": 0,
+    "entity": "preferred_location",
+    "gold": "Andheri West",
+    "predicted": null
+  }
+]
